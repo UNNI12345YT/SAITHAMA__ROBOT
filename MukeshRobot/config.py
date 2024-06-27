@@ -10,7 +10,7 @@ class Config(object):
     OWNER_ID = 6171681404 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     
     SUPPORT_CHAT = "MRXSUPPORT"  # Your own group for support, do not add the @
-    START_IMG = ""
+    START_IMG = "https://telegra.ph/file/9e19a80a14adb745c80c8.gif"
     EVENT_LOGS = (-1002090641762)  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
     MONGO_DB_URI= "mongodb+srv://Achu:Achu@cluster0.shz28r2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     # RECOMMENDED
